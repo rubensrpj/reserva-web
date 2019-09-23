@@ -38,4 +38,4 @@ npm run build
 
 ### Demo - Cadastro dos Produtos
 
-[link](http://157.245.221.48/admproduto).
+[link](http://157.245.221.48/#/admproduto).
