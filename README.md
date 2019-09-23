@@ -33,4 +33,5 @@ npm run build
 ```
 
 ### Demo
-[Acesse](http://157.245.221.48/).
+[Portal](http://157.245.221.48/).
+[Cadastrar Produtos](http://157.245.221.48/admproduto).
