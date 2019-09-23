@@ -1,6 +1,7 @@
-# reserva
+# Reserva
 
-Ferramenta simples que demonstra o uso do Vue.js
+Site de reserva/aluguel de brinquedos.
+Projeto todo constuido feito em Vue.js
 
 ## Tecnologias utilizadas:
 
