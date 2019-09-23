@@ -33,4 +33,4 @@ npm run build
 ```
 
 ### Demo
-Acesse [Configuration Reference](http://157.245.221.48/).
+[Acesse](http://157.245.221.48/).
